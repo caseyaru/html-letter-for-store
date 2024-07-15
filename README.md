@@ -1,2 +1,4 @@
-# html-letter-for-store
-Basic HTML letter for online shop
+# basic html letter for online shop
+
+##### О проекте
+Шаблон небольшого HTML-письма для онлайн-магазина. 
